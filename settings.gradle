@@ -1,0 +1,2 @@
+rootProject.name='XXXXX'
+include ':app',':retrofit2-adapter-rxjava3'
